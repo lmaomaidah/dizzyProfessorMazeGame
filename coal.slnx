@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="coal/coal.vcxproj" Id="6102cf7f-f559-4bb1-84ec-f93261de052b" />
+</Solution>

@@ -1,0 +1,11 @@
+=== DIZZY WALK ADVENTURE LOG ===
+-----------------------------------
+Professor : junaid
+Steps     : 27
+Final Pos : Row=50 Col=92
+Coins     : 2
+Key       : Key Lost  : No
+Treasures :
+  Coin at Row=10 Col=0
+Result    : Fell into a pit.
+-----------------------------------
